@@ -304,7 +304,7 @@ This project could be expanded into a full-stack emergency dispatch prototype wi
 
 ## Academic Note
 
-This project was originally created for academic purposes as part of a WGU performance assessment. This repository is intended for personal learning, portfolio development, and future project expansion.
+This project was originally created for academic purposes and intended for personal learning, portfolio development, and future project expansion.
 
 ## Author
 
